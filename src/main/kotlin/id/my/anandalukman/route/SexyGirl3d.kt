@@ -6,7 +6,7 @@ import io.ktor.http.*
 import io.ktor.response.*
 import io.ktor.routing.*
 
-private const val BASE_URL = "http://192.168.1.3:8100"
+private const val BASE_URL = "https://obasaka.herokuapp.com"
 private val sexyGirl = listOf(
     Sexy("Ahri", "Christmas Sexy Outfit", "$BASE_URL/girlimage/animegirl1.jpg"),
     Sexy("Akagi", "Big tits white fox girl charmy", "$BASE_URL/girlimage/animegirl2.jpg"),
