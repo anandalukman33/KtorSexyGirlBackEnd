@@ -26,7 +26,10 @@ private val sexyGirl = listOf(
     Sexy("NingguangPose", "Ningguang Pose", "$BASE_URL/girlimage/animegirl16.jpg"),
 )
 
-
+/**
+ * Method GET list of SexyGirl
+ * and set for random get
+ */
 
 fun Route.randomGirl() {
     get("/sexygirl") {

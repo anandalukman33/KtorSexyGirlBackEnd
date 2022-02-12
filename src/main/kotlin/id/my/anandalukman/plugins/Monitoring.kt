@@ -6,6 +6,10 @@ import io.ktor.request.*
 import io.ktor.application.*
 import io.ktor.response.*
 
+/**
+ * Logging Network Live Data
+ */
+
 fun Application.configureMonitoring() {
     install(CallLogging) {
         level = Level.INFO

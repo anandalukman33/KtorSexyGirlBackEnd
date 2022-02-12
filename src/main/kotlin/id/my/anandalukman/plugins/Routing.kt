@@ -5,6 +5,10 @@ import io.ktor.routing.*
 import io.ktor.http.content.*
 import io.ktor.application.*
 
+/**
+ * Setting up route of path file in imageUrl
+ */
+
 fun Application.configureRouting() {
     routing {
         randomGirl()

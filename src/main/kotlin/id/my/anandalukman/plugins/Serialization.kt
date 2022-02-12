@@ -7,6 +7,10 @@ import io.ktor.response.*
 import io.ktor.request.*
 import io.ktor.routing.*
 
+/**
+ * Set of ApplicationContent Json
+ */
+
 fun Application.configureSerialization() {
     install(ContentNegotiation) {
         json()
