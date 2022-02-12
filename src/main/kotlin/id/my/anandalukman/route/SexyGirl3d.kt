@@ -24,6 +24,20 @@ private val sexyGirl = listOf(
     Sexy("Ningguang", "Lingerie Outfit", "$BASE_URL/girlimage/animegirl14.jpg"),
     Sexy("NingguangSee", "Chainesse Outfit", "$BASE_URL/girlimage/animegirl15.jpg"),
     Sexy("NingguangPose", "Ningguang Pose", "$BASE_URL/girlimage/animegirl16.jpg"),
+    Sexy("Medusa", "Medusa from Fate/Grand Order. 1st reward of the (late) January pack.", "$BASE_URL/girlimage/animegirl17.jpg"),
+    Sexy("Myra", "Myra Year of the Tiger - OC", "$BASE_URL/girlimage/animegirl18.jpg"),
+    Sexy("Chloe - OC", "Modern Sexy Outfit Chloe", "$BASE_URL/girlimage/animegirl19.jpg"),
+    Sexy("Shenhe", "Shenhe from Genshin Impact.", "$BASE_URL/girlimage/animegirl20.jpg"),
+    Sexy("Kiko", "Kiko Happy New Year - OC", "$BASE_URL/girlimage/animegirl21.jpg"),
+    Sexy("Windranger Arcana Christmas", "A Christmas Windranger Arcana (Dota2) for SleepyKorok, made for LillyPadArts's Secret Santa!", "$BASE_URL/girlimage/animegirl22.jpg"),
+    Sexy("Windranger Arcana Christmas 2", "A Christmas Windranger Arcana (Dota2) for SleepyKorok, made for LillyPadArts's Secret Santa!", "$BASE_URL/girlimage/animegirl23.jpg"),
+    Sexy("Jean", "Jean in swimsuit, from Genshin Impact. Part of my latest Gumroad pack.", "$BASE_URL/girlimage/animegirl24.jpg"),
+    Sexy("Ryuko Matoi - Kill la Kill", "Ryuko Matoi in her full Life Fiber Synchronization form, from Kill la Kill. Part of my latest Gumroad pack.", "$BASE_URL/girlimage/animegirl25.jpg"),
+    Sexy("Zero Two - DARLING in the FRANX", "Zero Two from DARLING in the FRANXX, in her summer suit. Third and last reward of the June Patreon pack. I had to censor with sunscreen.", "$BASE_URL/girlimage/animegirl26.jpg"),
+    Sexy("Byleth Summer - Fire Emblem Heroes", "Byleth from Fire Emblem wearing a swimsuit, from my latest Gumroad pack.", "$BASE_URL/girlimage/animegirl27.jpg"),
+    Sexy("Miku Nakano - The Quintessential Quintuplets", "Miku Nakano from The Quintessential Quintuplets. Third and last reward of the March Patreon pack. It took me a while, but now I'm doing much better.", "$BASE_URL/girlimage/animegirl28.jpg"),
+    Sexy("Byleth - Fire Emblem Heroes", "Summer Byleth from Fire Emblem Heroes. First reward of the March Patreon pack.", "$BASE_URL/girlimage/animegirl29.jpg"),
+    Sexy("Ahri - LoL", "Ahri in a chill version from League of Legends, third and last reward of the January pack (it took a while). I really hope the result was worth the wait!", "$BASE_URL/girlimage/animegirl30.jpg"),
 )
 
 /**
