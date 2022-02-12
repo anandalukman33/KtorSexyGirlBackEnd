@@ -1,1 +1,1 @@
-web: ./build/install/ktor-gradle-sample/bin/ktor-gradle-sample
+web: ./build/install/id.my.anandalukman.obasaka/bin/id.my.anandalukman.obasaka
